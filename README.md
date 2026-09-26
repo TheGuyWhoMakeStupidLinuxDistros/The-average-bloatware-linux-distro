@@ -14,3 +14,6 @@ This project is licensed under **The Unlicense (Public Domain)**, meaning you ca
 However, because this distro includes an actual Linux kernel and `apt` just to run an empty black void, those components are *technically* under the GNU GPL. I formally apologize for adding that extra legal bloat to your hard drive. 
 
 Anyways, I do not care. You have full permission to take it from me. Please take this cursed operating system off of my hands.
+
+## The ISO
+[Download the monster here](https://github.com/TheGuyWhoMakeStupidLinuxDistros/The-average-bloatware-linux-distro/releases/download/v1.0.0/Average.bloatware.linuxdistro.iso)
